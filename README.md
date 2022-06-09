@@ -59,15 +59,6 @@ Criar conta e configurar os serviços externos:
 
 *Configurações dos serviços estão localizadas no arquivo servicesConfig.md na raiz do projeto.*
 
-### **Clone do projeto**
-
-```bash
-# Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/nelsonsantosaraujo/ignews.git
-# Entre na pasta do repositório clonado
-$ cd ignews
-```
-
 ### **Iniciando o projeto**
 
 ```bash
