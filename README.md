@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
+
 </h1>
 
 <h1 align="center">
@@ -23,6 +23,8 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em Rea
 A aplicação foi desenvolvida utilizando o framework NextJS aplicando conceitos como consumo de API externas, API Root, Server Side Rendering (SSR), Static Site Generation (SSG), STRIPE para pagamentos das subscriptions, NextAuth para autenticação com Github, FaunaDB para armazenar as informações do usuário em um banco de dados e Prismic CMS para adição e gerenciamento do conteúdo dos posts.
 
 O projeto foi desenvolvido como pratica das aulas do modulo 03 do [Ignite da Rocketseat](https://rocketseat.com.br/)
+
+![alt text](https://user-images.githubusercontent.com/71355621/173606895-b31376f8-cae3-4fc0-a725-2e2836d6a976.png)
 
 ---
 
